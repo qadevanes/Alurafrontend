@@ -1,8 +1,43 @@
 header{
     background: #BBBBBB;
+    padding: 20px 0px;
 }
 
+.caixa{
 
+    width: 940px;
+    position: relative;
+    margin: auto;
+}
+nav{
+
+    position: absolute;
+    top: 110px;
+    right: 0%;
+}
 nav li{
     display: inline;
+
+
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0% auto;
+    padding: 50px 0px;
+}
+.produtos li{
+ display: inline-block;
+ text-align: center;
+ width: 30px;
+ vertical-align: top;
+ 
 }
